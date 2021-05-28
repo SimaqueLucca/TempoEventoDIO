@@ -1,0 +1,16 @@
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\TempoEventoDIO.exe
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\TempoEventoDIO.deps.json
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\TempoEventoDIO.runtimeconfig.json
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\TempoEventoDIO.runtimeconfig.dev.json
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\TempoEventoDIO.dll
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\ref\TempoEventoDIO.dll
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\bin\Debug\net5.0\TempoEventoDIO.pdb
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.csprojAssemblyReference.cache
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.AssemblyInfoInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.AssemblyInfo.cs
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.csproj.CoreCompileInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.dll
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\ref\TempoEventoDIO.dll
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.pdb
+C:\Users\Luca Simaque Souza\Desktop\TempoEventoDIO\obj\Debug\net5.0\TempoEventoDIO.genruntimeconfig.cache
